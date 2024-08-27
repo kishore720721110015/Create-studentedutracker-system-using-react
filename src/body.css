@@ -1,9 +1,8 @@
-.container {
+/* .container {
     display: flex;
     justify-content: space-around;
     padding: 40px;
     background-color: #f8f8f8;
-    margin-top: 70px;
   }
   .btn1{
     width: 80px;
@@ -11,6 +10,9 @@
     border-radius: 5px;
     background-color: rgb(144, 138, 134);
     color: white;
+  }
+  .btn1:hover{
+    background-color: rgba(36, 34, 34, 0.7);
   }
   .card {
     background-color: white;
@@ -85,4 +87,4 @@
   }
   ul li{
     justify-content: center;
-  }
+  } */
